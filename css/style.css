@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(248, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+
+    h1 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .button {
+        padding: 10px;
+    }
+
+    .post {
+        width: 20%;
+    }
+}
